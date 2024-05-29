@@ -1,0 +1,5124 @@
+Original text: ARQ26
+Translated text: ARQ26
+
+Original text: Desarrollar el pensamiento sistémico y fundamentar propuestas de diseño por medio de la aplicación de los principios de la teoría e historia de la arquitectura y la ciudad desde distintas perspectivas de inclusión.
+Translated text: Develop Systematic Thinking and Founding Design Proposals through the Application of Principles from Architecture and City Theory from Different Inclusive Perspectives
+
+Original text: 6
+Translated text: 6
+
+Original text: 
+Translated text: 
+
+Original text: Constructibilidad
+Translated text: Constructibility
+
+Original text: Materia
+Translated text: Subject
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: Development
+
+Original text: Presencial
+Translated text: On-site
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-ARQ26-0H10000
+Translated text: PR-ARQ26-0H10000
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: Theoretical and Historical Foundation
+
+Original text: Fundamenta sus propuestas de diseño por medio de la aplicación de los principios de la teoría e historia de la arquitectura y la ciudad desde distintas perspectivas de inclusión.
+Translated text: Underpin your design proposals by applying the principles of architecture and urban planning theory and history from diverse inclusive perspectives.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-ARQ26-0H10001
+Translated text: ['PR-ARQ26-0H10000']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: Research
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: Develop research for the construction of proposals, projects or products using various methodologies and technological tools.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-ARQ26-0H10002
+Translated text: ['PR-ARQ26-0H10000']
+
+Original text: Desarrollar habilidades de resolución de problemas.
+Translated text: Develop problem-solving skills.
+
+Original text: Introducción a los sistemas complejos.
+Translated text: Introduction to Complex Systems
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: ARQ26
+Translated text: ARQ26
+
+Original text: Desarrollar el pensamiento sistémico y fundamentar propuestas de diseño por medio de la aplicación de los principios de la teoría e historia de la arquitectura y la ciudad desde distintas perspectivas de inclusión.
+Translated text: ['Develop Systematic Thinking and Founding Design Proposals through the Application of Principles from Architecture and City Theory from Different Inclusive Perspectives']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Constructibilidad
+Translated text: ['Constructibility']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-ARQ26-0H10000
+Translated text: ['PR-ARQ26-0H10000']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus propuestas de diseño por medio de la aplicación de los principios de la teoría e historia de la arquitectura y la ciudad desde distintas perspectivas de inclusión.
+Translated text: ['Underpin your design proposals by applying the principles of architecture and urban planning theory and history from diverse inclusive perspectives.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-ARQ26-0H10001
+Translated text: ['PR-ARQ26-0H10000']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-ARQ26-0H10002
+Translated text: ['PR-ARQ26-0H10000']
+
+Original text: Análisis crítico y resolución de problemas.
+Translated text: Critical Analysis and Problem Solving.
+
+Original text: Técnicas de síntesis de la información.
+Translated text: Information Synthesis Techniques.
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Programa
+Translated text: Program
+
+Original text: Fines de Aprendizaje del Programa
+Translated text: Learning Outcomes of the Program
+
+Original text: Semestre
+Translated text: Semester
+
+Original text: Clave de UF (GCA)
+Translated text: GCA Key of Learning Unit
+
+Original text: Unidad de Formación
+Translated text: Learning Unit
+
+Original text: Tipo de UF
+Translated text: Type of Learning Unit
+
+Original text: Semanas de la UF
+Translated text: Weeks of the UF
+
+Original text: Créditos Académicos de la UF
+Translated text: Academic Credits of the UF
+
+Original text: Criterios de Evaluación
+Translated text: Assessment Criteria
+
+Original text: Tipo de Evaluación
+Translated text: Type of Assessment
+
+Original text: Formato de Impartición
+Translated text: Teaching Format
+
+Original text: Otras Propiedades (ED, LAB, SOS, SH)
+Translated text: Other Properties (ED, LAB, SOS, SH)
+
+Original text: Competencia común 
+Translated text: Common Competition
+
+Original text: Clave de la competencia
+Translated text: Key Competency
+
+Original text: Disciplina de la Competencia
+Translated text: Competence Discipline
+
+Original text: Nombre de la competencia
+Translated text: Competition Name
+
+Original text: Descripción de la competencia
+Translated text: Description of the competition
+
+Original text: Subcompetencia común
+Translated text: Common Subcompetency
+
+Original text: Clave de la subcompetencia
+Translated text: ['Key Competency']
+
+Original text: Disciplina de la Subcompetencia
+Translated text: Discipline of the Sub-Competence
+
+Original text: Nombre de la subcompetencia
+Translated text: ['Competition Name']
+
+Original text: Descripción de la subcompetencia
+Translated text: ['Description of the competition']
+
+Original text: Elemento común
+Translated text: Common Element
+
+Original text: Clave del elemento
+Translated text: Element Key
+
+Original text: Elemento (Fin de Aprendizaje de la UF)
+Translated text: Learning Element (End of Learning of the UF)
+
+Original text: Temas
+Translated text: Themes
+
+Original text: Duración del Tema
+Translated text: Duration of the Theme
+
+Original text: Subtemas
+Translated text: Subjects
+
+Original text: ARQ27
+Translated text: ['ARQ26']
+
+Original text: Desarrollar habilidades para diseñar y construir espacios arquitectónicos sostenibles y eficientes en términos de recursos y energía.
+Translated text: Develop skills for designing and constructing sustainable and resource-efficient architectural spaces in terms of energy.
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Sustainable Design
+Translated text: Sustainable Design
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 8
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Implementation
+Translated text: Implementation
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-ARQ27-010000
+Translated text: ['PR-ARQ26-0H10000']
+
+Original text: 
+Translated text: 
+
+Original text: Sustainable Building Practices
+Translated text: Sustainable Building Practices
+
+Original text: Aplica principios de diseño sostenible en la construcción de edificios y espacios arquitectónicos.
+Translated text: Sustainable Design Principles for Building Construction and Architectural Spaces.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-ARQ27-010100
+Translated text: ['PR-ARQ26-0H10000']
+
+Original text: 
+Translated text: 
+
+Original text: Research and Development
+Translated text: Investigación y Desarrollo
+
+Original text: Desarrolla proyectos de investigación para mejorar la eficiencia energética y reducir el impacto ambiental en la construcción.
+Translated text: Develop research projects to improve energy efficiency and reduce environmental impact in construction.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-ARQ27-010101
+Translated text: PR-ARQ27-010101
+
+Original text: Design for Sustainability.
+Translated text: Design for Sustainability
+
+Original text: Environmental Impact Assessment.
+Translated text: Evaluación del Impacto Ambiental.
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: ARQ27
+Translated text: ['ARQ26']
+
+Original text: Desarrollar habilidades para diseñar y construir espacios arquitectónicos sostenibles y eficientes en términos de recursos y energía.
+Translated text: ['Develop skills for designing and constructing sustainable and resource-efficient architectural spaces in terms of energy.']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Sustainable Design
+Translated text: ['Sustainable Design']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 8
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Implementation
+Translated text: ['Implementation']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-ARQ27-010000
+Translated text: ['PR-ARQ26-0H10000']
+
+Original text: 
+Translated text: 
+
+Original text: Sustainable Building Practices
+Translated text: ['Sustainable Building Practices']
+
+Original text: Aplica principios de diseño sostenible en la construcción de edificios y espacios arquitectónicos.
+Translated text: ['Sustainable Design Principles for Building Construction and Architectural Spaces.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-ARQ27-010100
+Translated text: ['PR-ARQ26-0H10000']
+
+Original text: 
+Translated text: 
+
+Original text: Research and Development
+Translated text: ['Investigación y Desarrollo']
+
+Original text: Desarrolla proyectos de investigación para mejorar la eficiencia energética y reducir el impacto ambiental en la construcción.
+Translated text: ['Develop research projects to improve energy efficiency and reduce environmental impact in construction.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-ARQ27-010102
+Translated text: ['PR-ARQ27-010101']
+
+Original text: Sustainable Materials Selection.
+Translated text: Sustainable Materials Selection.
+
+Original text: Building Information Modeling (BIM).
+Translated text: Building Information Modelling
+
+Original text: 10
+Translated text: ['6']
+
+Original text: Programa
+Translated text: ['Program']
+
+Original text: INGE26
+Translated text: INGE26
+
+Original text: Diseñar y desarrollar sistemas de automatización para el control y monitoreo de procesos industriales.
+Translated text: Design and develop automation systems for the control and monitoring of industrial processes.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Análisis de Circuitos
+Translated text: Circuits Analysis
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-INGE26-0A1B001
+Translated text: PR-INGE26-0A1B001
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentos de la electrónica
+Translated text: Foundations of Electronics
+
+Original text: Fundamenta sus propuestas de diseño por medio de la aplicación de los principios de la electrónica y la automática.
+Translated text: Base your design proposals on the application of the principles of electronics and automation.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INGE26-0A1B002
+Translated text: ['PR-INGE26-0A1B001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INGE26-0A1B003
+Translated text: ['PR-INGE26-0A1B001']
+
+Original text: Desarrollar el pensamiento sistémico.
+Translated text: Systemic Thinking Development
+
+Original text: Diseño de sistemas de automatización.
+Translated text: Automation Systems Design
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: INGE26
+Translated text: ['INGE26']
+
+Original text: Realizar el diseño y desarrollo de prototipos de instrumentos electrónicos para la medición y control de procesos industriales.
+Translated text: Development of Prototypes for Electronic Instruments Measuring and Controlling Industrial Processes.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Análisis de Circuitos
+Translated text: ['Circuits Analysis']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-INGE26-0A1B004
+Translated text: ['PR-INGE26-0A1B001']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentos de la electrónica
+Translated text: ['Foundations of Electronics']
+
+Original text: Fundamenta sus propuestas de diseño por medio de la aplicación de los principios de la electrónica y la automática.
+Translated text: ['Base your design proposals on the application of the principles of electronics and automation.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INGE26-0A1B005
+Translated text: ['PR-INGE26-0A1B001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INGE26-0A1B006
+Translated text: ['PR-INGE26-0A1B001']
+
+Original text: Diseñar y desarrollar prototipos.
+Translated text: Design and develop prototypes.
+
+Original text: Análisis de circuitos electrónicos.
+Translated text: Electronics Circuit Analysis.
+
+Original text: 10
+Translated text: ['6']
+
+Original text: Programa
+Translated text: ['Program']
+
+Original text: INF26
+Translated text: ['ARQ26']
+
+Original text: Desarrollar habilidades para analizar y diseñar sistemas de información efectivos.
+Translated text: Develop skills for analyzing and designing effective information systems.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Diseño de Sistemas
+Translated text: Design of Systems
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-INF26-0A10001
+Translated text: ['PR-INGE26-0A1B001']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus propuestas de diseño por medio de la aplicación de los principios de la teoría e historia de la informática.
+Translated text: Underpin your design proposals by applying the principles of computer science theory and history.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INF26-0A10002
+Translated text: PR-INF26-0A10002
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INF26-0A10003
+Translated text: ['PR-INF26-0A10002']
+
+Original text: Desarrollar el pensamiento sistémico.
+Translated text: ['Systemic Thinking Development']
+
+Original text: Análisis de requerimientos del sistema.
+Translated text: System Requirements Analysis.
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: INF26
+Translated text: ['ARQ26']
+
+Original text: Realizar un diseño de sistemas de información que satisfaga las necesidades de los usuarios.
+Translated text: Design a System Information Architecture That Meets the Needs of Users.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Diseño de Sistemas
+Translated text: ['Design of Systems']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-INF26-0A10004
+Translated text: ['PR-INF26-0A10002']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus propuestas de diseño por medio de la aplicación de los principios de la teoría e historia de la informática.
+Translated text: ['Underpin your design proposals by applying the principles of computer science theory and history.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INF26-0A10005
+Translated text: ['PR-INF26-0A10002']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INF26-0A10006
+Translated text: ['PR-INF26-0A10002']
+
+Original text: Desarrollar el pensamiento sistémico.
+Translated text: ['Systemic Thinking Development']
+
+Original text: Diseño de interfaces usuario-amachine.
+Translated text: Human-Computer Interaction Design
+
+Original text: 10
+Translated text: ['6']
+
+Original text: Programa
+Translated text: ['Program']
+
+Original text: IN29
+Translated text: ['INGE26']
+
+Original text: Desarrollar habilidades para analizar y resolver problemas en el campo de la ingeniería informática.
+Translated text: Develop skills for analyzing and solving problems in the field of computer engineering.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Algoritmos
+Translated text: Algorithms
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-IN29-0B10000
+Translated text: PR-IN29-0B10000
+
+Original text: 
+Translated text: 
+
+Original text: Análisis de algoritmos
+Translated text: Algorithm Analysis
+
+Original text: Aplica conceptos de teoría de complejidad para evaluar y comparar diferentes algoritmos.
+Translated text: Complexity Theory Applications for Evaluating and Comparing Different Algorithms
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-IN29-010001
+Translated text: ['PR-IN29-0B10000']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Diseña y implementa soluciones para problemas específicos utilizando lenguajes de programación.
+Translated text: Designs and implements solutions for specific problems using programming languages.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-IN29-010101
+Translated text: ['PR-IN29-0B10000']
+
+Original text: Desarrollar la capacidad de razonamiento lógico.
+Translated text: Develop Logical Reasoning Skills
+
+Original text: Estructuras de datos.
+Translated text: Data Structures.
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: IN29
+Translated text: ['INGE26']
+
+Original text: Diseñar y desarrollar sistemas informáticos eficientes y escalables.
+Translated text: Design and develop efficient and scalable computer systems.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Algoritmos
+Translated text: ['Algorithms']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-IN29-0B10001
+Translated text: ['PR-IN29-0B10000']
+
+Original text: 
+Translated text: 
+
+Original text: Análisis de algoritmos
+Translated text: ['Algorithm Analysis']
+
+Original text: Aplica conceptos de teoría de complejidad para evaluar y comparar diferentes algoritmos.
+Translated text: ['Complexity Theory Applications for Evaluating and Comparing Different Algorithms']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-IN29-010002
+Translated text: ['PR-INF26-0A10002']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Diseña y implementa soluciones para problemas específicos utilizando lenguajes de programación.
+Translated text: ['Designs and implements solutions for specific problems using programming languages.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-IN29-010102
+Translated text: ['PR-IN29-0B10000']
+
+Original text: Desarrollar la capacidad de análisis crítico.
+Translated text: Develop Critical Analysis Skills
+
+Original text: Sistemas operativos.
+Translated text: Operating Systems.
+
+Original text: 10
+Translated text: ['6']
+
+Original text: Programa
+Translated text: ['Program']
+
+Original text: INGE28
+Translated text: ['INGE26']
+
+Original text: Diseñar y desarrollar sistemas de información para la toma de decisiones.
+Translated text: Design and Develop Information Systems for Decision-Making.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Analítica
+Translated text: Analysis
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 8
+Translated text: ['6']
+
+Original text: 4
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-INGE28-0B10000
+Translated text: ['PR-IN29-0B10000']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus propuestas de diseño por medio de la aplicación de los principios de la teoría e historia de la ingeniería y la información desde distintas perspectivas de inclusión.
+Translated text: Foundations of your design proposals are based on the application of principles from engineering and information theory through diverse perspectives of inclusion.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INGE28-0B10001
+Translated text: ['PR-INGE26-0A1B001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INGE28-0B10002
+Translated text: PR-INGE28-0B10002
+
+Original text: Desarrollar el pensamiento sistémico.
+Translated text: ['Systemic Thinking Development']
+
+Original text: Técnicas de modelado de sistemas.
+Translated text: Modeling Techniques for Systems.
+
+Original text: 8
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: INGE28
+Translated text: ['INGE26']
+
+Original text: Diseñar y desarrollar sistemas de información para la toma de decisiones.
+Translated text: ['Design and Develop Information Systems for Decision-Making.']
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Analítica
+Translated text: ['Analysis']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 8
+Translated text: ['6']
+
+Original text: 4
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-INGE28-0B10003
+Translated text: ['PR-INGE28-0B10002']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus propuestas de diseño por medio de la aplicación de los principios de la teoría e historia de la ingeniería y la información desde distintas perspectivas de inclusión.
+Translated text: ['Foundations of your design proposals are based on the application of principles from engineering and information theory through diverse perspectives of inclusion.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INGE28-0B10004
+Translated text: ['PR-INGE28-0B10002']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INGE28-0B10005
+Translated text: ['PR-INGE28-0B10002']
+
+Original text: Desarrollar el pensamiento sistémico.
+Translated text: ['Systemic Thinking Development']
+
+Original text: Análisis de datos y visualización.
+Translated text: Data Analysis and Visualization.
+
+Original text: 8
+Translated text: ['6']
+
+Original text: Programa
+Translated text: ['Program']
+
+Original text: INGL
+Translated text: ['INGE26']
+
+Original text: Desarrollar habilidades de comunicación efectiva en inglés para interactuar con hablantes nativos y no nativos.
+Translated text: Developing effective communication skills in English for interacting with native and non-native speakers.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Comunicación
+Translated text: Communication
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Online
+Translated text: Online
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-INGL-0B1A001
+Translated text: PR-INGL-0B1A001
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación lingüística
+Translated text: Linguistic Foundation
+
+Original text: Fundamenta sus propuestas de comunicación por medio de la aplicación de los principios de la gramática y la fonética del inglés.
+Translated text: Ground your communication proposals through the application of the principles of English grammar and phonetics.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INGL-0B1A002
+Translated text: ['PR-INGL-0B1A001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INGL-0B1A003
+Translated text: ['PR-INGL-0B1A001']
+
+Original text: Desarrollar la comprensión auditiva.
+Translated text: Developing auditory comprehension.
+
+Original text: Técnicas de escucha activa.
+Translated text: Active Listening Techniques.
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: INGL
+Translated text: ['INGE26']
+
+Original text: Analizar y comprender textos en inglés para aplicar conocimientos en diferentes contextos.
+Translated text: Analyze and comprehend texts in English to apply knowledge in various contexts.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Comunicación
+Translated text: ['Communication']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Online
+Translated text: ['Online']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-INGL-0B1A004
+Translated text: ['PR-INGL-0B1A001']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación lingüística
+Translated text: ['Linguistic Foundation']
+
+Original text: Fundamenta sus propuestas de comunicación por medio de la aplicación de los principios de la gramática y la fonética del inglés.
+Translated text: ['Ground your communication proposals through the application of the principles of English grammar and phonetics.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INGL-0B1A005
+Translated text: ['PR-INGL-0B1A001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INGL-0B1A006
+Translated text: ['PR-INGL-0B1A001']
+
+Original text: Desarrollar la comprensión lectora.
+Translated text: Develop Reading Comprehension
+
+Original text: Análisis de textos complejos.
+Translated text: Complex Text Analysis
+
+Original text: 10
+Translated text: ['6']
+
+Original text: Programa
+Translated text: ['Program']
+
+Original text: INGE26
+Translated text: ['INGE26']
+
+Original text: Desarrollar habilidades para el análisis y resolución de problemas en ingeniería.
+Translated text: Develop skills for analysis and problem-solving in engineering.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Calculadora
+Translated text: Calculator
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-INGE26-0A1F001
+Translated text: ['PR-INGE26-0A1B001']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentos de la Ingeniería
+Translated text: Foundations of Engineering
+
+Original text: Fundamenta sus propuestas de diseño por medio de la aplicación de los principios de la teoría e historia de la ingeniería desde distintas perspectivas de inclusión.
+Translated text: Ground your design proposals through the application of principles from engineering theory and history from diverse inclusive perspectives.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INGE26-0A1F002
+Translated text: ['PR-INGE26-0A1B001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INGE26-0A1F003
+Translated text: ['PR-INGE26-0A1B001']
+
+Original text: Desarrollar el pensamiento sistémico.
+Translated text: ['Systemic Thinking Development']
+
+Original text: Técnicas de síntesis de la información.
+Translated text: ['Information Synthesis Techniques.']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: INGE26
+Translated text: ['INGE26']
+
+Original text: Realizar análisis y diseño de sistemas para resolver problemas de ingeniería.
+Translated text: Design Systems and Analysis for Engineering Problem-Solving
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Calculadora
+Translated text: ['Calculator']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-INGE26-0A1F004
+Translated text: ['PR-INGE26-0A1B001']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentos de la Ingeniería
+Translated text: ['Foundations of Engineering']
+
+Original text: Fundamenta sus propuestas de diseño por medio de la aplicación de los principios de la teoría e historia de la ingeniería desde distintas perspectivas de inclusión.
+Translated text: ['Ground your design proposals through the application of principles from engineering theory and history from diverse inclusive perspectives.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INGE26-0A1F005
+Translated text: ['PR-INGE26-0A1B001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INGE26-0A1F006
+Translated text: ['PR-INGE26-0A1B001']
+
+Original text: Desarrollar el pensamiento sistémico.
+Translated text: ['Systemic Thinking Development']
+
+Original text: Análisis de sistemas complejos.
+Translated text: Complex Systems Analysis
+
+Original text: 10
+Translated text: ['6']
+
+Original text: Programa
+Translated text: ['Program']
+
+Original text: INF26
+Translated text: ['ARQ26']
+
+Original text: Diseñar y desarrollar soluciones informáticas para problemas complejos.
+Translated text: Design and Develop Information Technology Solutions for Complex Problems.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Algoritmos
+Translated text: ['Algorithms']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-INF26-0A1B001
+Translated text: ['PR-INGE26-0A1B001']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus propuestas de diseño por medio de la aplicación de los principios de la teoría e historia de la informática y la ciencia de la computación desde distintas perspectivas de inclusión.
+Translated text: Foundations of your design proposals should be based on the application of principles from computer science and information technology theory and history, considering different perspectives of inclusion.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INF26-0A1B002
+Translated text: ['PR-INGE26-0A1B001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INF26-0A1B003
+Translated text: ['PR-INGE26-0A1B001']
+
+Original text: Desarrollar el pensamiento sistémico.
+Translated text: ['Systemic Thinking Development']
+
+Original text: Técnicas de síntesis de la información.
+Translated text: ['Information Synthesis Techniques.']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: INF26
+Translated text: ['ARQ26']
+
+Original text: Realizar análisis y diseño de sistemas de información para resolver problemas en entornos complejos.
+Translated text: Design and Implement Information Systems for Problem-Solving in Complex Environments.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Algoritmos
+Translated text: ['Algorithms']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-INF26-0A1B004
+Translated text: ['PR-INGE26-0A1B001']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus propuestas de diseño por medio de la aplicación de los principios de la teoría e historia de la informática y la ciencia de la computación desde distintas perspectivas de inclusión.
+Translated text: ['Foundations of your design proposals should be based on the application of principles from computer science and information technology theory and history, considering different perspectives of inclusion.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INF26-0A1B005
+Translated text: ['PR-INGE26-0A1B001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INF26-0A1B006
+Translated text: ['PR-INGE26-0A1B001']
+
+Original text: Desarrollar el pensamiento sistémico.
+Translated text: ['Systemic Thinking Development']
+
+Original text: Análisis de sistemas complejos.
+Translated text: ['Complex Systems Analysis']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: Programa
+Translated text: ['Program']
+
+Original text: ING31
+Translated text: ['INGE26']
+
+Original text: Desarrollar habilidades para analizar y resolver problemas en el área de la ingeniería de software.
+Translated text: Develop skills for analyzing and solving problems in the field of software engineering.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Algoritmos
+Translated text: ['Algorithms']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-ING31-0B1A001
+Translated text: ['PR-INGL-0B1A001']
+
+Original text: 
+Translated text: 
+
+Original text: Análisis de algoritmos
+Translated text: ['Algorithm Analysis']
+
+Original text: Analiza y diseña algoritmos para solucionar problemas en la ingeniería de software.
+Translated text: Software Engineering Problem Solving Algorithms Design
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-ING31-0B1A002
+Translated text: ['PR-INGL-0B1A001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Realiza investigaciones sobre problemas específicos en el área de la ingeniería de software.
+Translated text: Conduct research on specific problems in the field of software engineering.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-ING31-0B1A003
+Translated text: ['PR-INGL-0B1A001']
+
+Original text: Desarrollar habilidades para programar.
+Translated text: Developing programming skills.
+
+Original text: Técnicas de programación avanzadas.
+Translated text: Advanced Programming Techniques.
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: ING31
+Translated text: ['INGE26']
+
+Original text: Diseñar y desarrollar soluciones innovadoras en el área de la ingeniería de software.
+Translated text: Design and develop innovative solutions in the field of software engineering.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Algoritmos
+Translated text: ['Algorithms']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-ING31-0B1A004
+Translated text: ['PR-INGL-0B1A001']
+
+Original text: 
+Translated text: 
+
+Original text: Análisis de algoritmos
+Translated text: ['Algorithm Analysis']
+
+Original text: Analiza y diseña algoritmos para solucionar problemas en la ingeniería de software.
+Translated text: ['Software Engineering Problem Solving Algorithms Design']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-ING31-0B1A005
+Translated text: ['PR-INGL-0B1A001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Realiza investigaciones sobre problemas específicos en el área de la ingeniería de software.
+Translated text: ['Conduct research on specific problems in the field of software engineering.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-ING31-0B1A006
+Translated text: ['PR-INGL-0B1A001']
+
+Original text: Desarrollar habilidades para programar.
+Translated text: ['Developing programming skills.']
+
+Original text: Desarrollo de proyectos de software.
+Translated text: Software Development Projects
+
+Original text: 10
+Translated text: ['6']
+
+Original text: Programa
+Translated text: ['Program']
+
+Original text: INF26
+Translated text: ['ARQ26']
+
+Original text: Análisis y diseño de sistemas informáticos.
+Translated text: Computer Systems Analysis and Design
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-INF26-0B10000
+Translated text: ['PR-INF26-0A10002']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus propuestas de diseño por medio de la aplicación de los principios de la teoría e historia de la computación y la informática desde distintas perspectivas de inclusión.
+Translated text: Base principles of design on the application of theoretical and historical computer science and informatics perspectives from different inclusion viewpoints.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INF26-010100
+Translated text: ['PR-INF26-0A10002']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INF26-010101
+Translated text: ['PR-INF26-0A10002']
+
+Original text: Desarrollar el pensamiento sistémico.
+Translated text: ['Systemic Thinking Development']
+
+Original text: Introducción a los sistemas complejos.
+Translated text: ['Introduction to Complex Systems']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: INF26
+Translated text: ['ARQ26']
+
+Original text: Diseñar e implementar algoritmos efectivos para problemas específicos.
+Translated text: Design and Implement Effective Algorithms for Specific Problems
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-INF26-0B10001
+Translated text: ['PR-INF26-0A10002']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus propuestas de diseño por medio de la aplicación de los principios de la teoría e historia de la computación y la informática desde distintas perspectivas de inclusión.
+Translated text: ['Base principles of design on the application of theoretical and historical computer science and informatics perspectives from different inclusion viewpoints.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INF26-010102
+Translated text: ['PR-INF26-0A10002']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INF26-010103
+Translated text: ['PR-INF26-0A10002']
+
+Original text: Desarrollar el pensamiento sistémico.
+Translated text: ['Systemic Thinking Development']
+
+Original text: Técnicas de síntesis de la información.
+Translated text: ['Information Synthesis Techniques.']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: Programa
+Translated text: ['Program']
+
+Original text: ING26
+Translated text: ['ARQ26']
+
+Original text: Desarrollar habilidades en programación y análisis de datos para resolver problemas en el ámbito empresarial.
+Translated text: Developing programming and data analysis skills to solve problems in the corporate environment.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Algoritmos
+Translated text: ['Algorithms']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-ING26-0I1A001
+Translated text: ['PR-INGE26-0A1B001']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus propuestas de diseño por medio de la aplicación de los principios de la teoría e historia de la programación y análisis de datos.
+Translated text: Ground your design proposals through the application of principles from the theory and history of programming and data analysis.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-ING26-0I1A002
+Translated text: ['PR-INF26-0A10002']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de soluciones, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: Develop researches for the construction of solutions, projects or products using various methodologies and technological tools.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-ING26-0I1A003
+Translated text: PR-ING26-0I1A003
+
+Original text: Desarrollar el pensamiento sistémico.
+Translated text: ['Systemic Thinking Development']
+
+Original text: Análisis de datos complejos.
+Translated text: ['Complex Text Analysis']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: ING26
+Translated text: ['ARQ26']
+
+Original text: Aplicar las herramientas y lenguajes de programación para desarrollar soluciones innovadoras en el ámbito empresarial.
+Translated text: Develop innovative solutions using programming tools and languages in the corporate environment.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Algoritmos
+Translated text: ['Algorithms']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-ING26-0I1A004
+Translated text: ['PR-ING26-0I1A003']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus propuestas de diseño por medio de la aplicación de los principios de la teoría e historia de la programación y análisis de datos.
+Translated text: ['Ground your design proposals through the application of principles from the theory and history of programming and data analysis.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-ING26-0I1A005
+Translated text: ['PR-ING26-0I1A003']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de soluciones, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop researches for the construction of solutions, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-ING26-0I1A006
+Translated text: ['PR-ING26-0I1A003']
+
+Original text: Desarrollar el pensamiento sistémico.
+Translated text: ['Systemic Thinking Development']
+
+Original text: Diseño de algoritmos eficientes.
+Translated text: Design of Efficient Algorithms
+
+Original text: 10
+Translated text: ['6']
+
+Original text: Programa
+Translated text: ['Program']
+
+Original text: INGENIERIA DE SOFTWARE
+Translated text: Software Engineering
+
+Original text: Desarrollar habilidades para analizar y diseñar soluciones informáticas.
+Translated text: Develop skills for analyzing and designing IT solutions.
+
+Original text: 4
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Análisis de Requisitos
+Translated text: Requirements Analysis
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 8
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Virtual
+Translated text: Virtual
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-INGEN-0B10001
+Translated text: ['PR-INGE28-0B10002']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus propuestas de diseño por medio de la aplicación de los principios de la teoría e historia del software.
+Translated text: Base Your Proposals of Design Through the Application of Principles of Software Theory and History.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INGEN-0B10002
+Translated text: ['PR-INGE28-0B10002']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de soluciones informáticas utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: Develops research for the construction of IT solutions using diverse methodologies and technological tools.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INGEN-0B10003
+Translated text: ['PR-INGE28-0B10002']
+
+Original text: Desarrollar el pensamiento sistémico.
+Translated text: ['Systemic Thinking Development']
+
+Original text: Técnicas de diseño de software.
+Translated text: Software Design Techniques
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: INGENIERIA DE SOFTWARE
+Translated text: ['Software Engineering']
+
+Original text: Desarrollar habilidades para implementar y probar soluciones informáticas.
+Translated text: Develop skills for implementing and testing computational solutions.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Análisis de Requisitos
+Translated text: ['Requirements Analysis']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 8
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Virtual
+Translated text: ['Virtual']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-INGEN-0B10004
+Translated text: ['PR-INGE28-0B10002']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus propuestas de diseño por medio de la aplicación de los principios de la teoría e historia del software.
+Translated text: ['Base Your Proposals of Design Through the Application of Principles of Software Theory and History.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INGEN-0B10005
+Translated text: ['PR-INGE28-0B10002']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de soluciones informáticas utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develops research for the construction of IT solutions using diverse methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INGEN-0B10006
+Translated text: ['PR-INGE28-0B10002']
+
+Original text: Desarrollar el pensamiento sistémico.
+Translated text: ['Systemic Thinking Development']
+
+Original text: Pruebas y depuración de software.
+Translated text: Software Testing and Debugging.
+
+Original text: 10
+Translated text: ['6']
+
+Original text: Programa
+Translated text: ['Program']
+
+Original text: INF26
+Translated text: ['ARQ26']
+
+Original text: Analizar y resolver problemas complejos utilizando lenguajes de programación
+Translated text: Complex Problem Solving using Programming Languages
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Algoritmos
+Translated text: ['Algorithms']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 8
+Translated text: ['6']
+
+Original text: 4
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-INF26-0B10001
+Translated text: ['PR-INF26-0A10002']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus propuestas de diseño por medio de la aplicación de los principios de la teoría e historia de la computación.
+Translated text: Foundations of Design Proposals Based on the Application of Principles from Computer Theory and History.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INF26-0B10002
+Translated text: ['PR-INF26-0A10002']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de algoritmos y programas utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: Develops research for the construction of algorithms and programs using various methodologies and technological tools.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INF26-0B10003
+Translated text: ['PR-INF26-0A10002']
+
+Original text: Desarrollar el pensamiento sistémico.
+Translated text: ['Systemic Thinking Development']
+
+Original text: Técnicas de síntesis de la información.
+Translated text: ['Information Synthesis Techniques.']
+
+Original text: 8
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: INF26
+Translated text: ['ARQ26']
+
+Original text: Diseñar y implementar sistemas de información seguros y escalables
+Translated text: Design and Implement Secure and Scalable Information Systems
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Sistemas de Información
+Translated text: Information Systems
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 9
+Translated text: ['6']
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-INF26-0B10004
+Translated text: ['PR-INF26-0A10002']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus propuestas de diseño por medio de la aplicación de los principios de la teoría e historia de la computación.
+Translated text: ['Foundations of Design Proposals Based on the Application of Principles from Computer Theory and History.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INF26-0B10005
+Translated text: ['PR-INF26-0A10002']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de sistemas de información utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: Develop research for the construction of information systems using various methodologies and technological tools.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INF26-0B10006
+Translated text: ['PR-INF26-0A10002']
+
+Original text: Desarrollar el pensamiento sistémico.
+Translated text: ['Systemic Thinking Development']
+
+Original text: Análisis de sistemas complejos.
+Translated text: ['Complex Systems Analysis']
+
+Original text: 9
+Translated text: ['6']
+
+Original text: Programa
+Translated text: ['Program']
+
+Original text: POLI26
+Translated text: POLI26
+
+Original text: Desarrollar habilidades para analizar y evaluar políticas públicas.
+Translated text: Develop skills for analyzing and evaluating public policies.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Análisis Político
+Translated text: Political Analysis
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-POLI26-0A10001
+Translated text: PR-POLI26-0A10001
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus análisis de políticas públicas por medio de la aplicación de los principios de la teoría e historia de la política pública desde distintas perspectivas.
+Translated text: Underpin your analysis of public policies by applying the principles of theory and history of public policy from different perspectives.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POLI26-0A10002
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POLI26-0A10003
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: Desarrollar el pensamiento crítico.
+Translated text: Develop Critical Thinking
+
+Original text: Técnicas de síntesis de información.
+Translated text: ['Information Synthesis Techniques.']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: POLI26
+Translated text: ['POLI26']
+
+Original text: Diseñar e implementar políticas públicas que promuevan el bienestar social.
+Translated text: Design and Implement Public Policies that Promote Social Welfare
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Análisis Político
+Translated text: ['Political Analysis']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-POLI26-0A10004
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus propuestas de política pública por medio de la aplicación de los principios de la teoría e historia de la política pública desde distintas perspectivas.
+Translated text: Foundations of Public Policy Proposals Based on the Application of Principles from Public Policy Theory and History from Different Perspectives
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POLI26-0A10005
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POLI26-0A10006
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: Desarrollar el pensamiento sistémico.
+Translated text: ['Systemic Thinking Development']
+
+Original text: Análisis de sistemas complejos.
+Translated text: ['Complex Systems Analysis']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: Programa
+Translated text: ['Program']
+
+Original text: POLIT27
+Translated text: ['POLI26']
+
+Original text: Desarrollar habilidades para analizar y resolver problemas políticos complejos.
+Translated text: Develop skills for analyzing and solving complex political problems.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Análisis Político
+Translated text: ['Political Analysis']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-POLIT27-0B1A001
+Translated text: PR-POLIT27-0B1A001
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus propuestas de políticas públicas por medio de la aplicación de los principios de la teoría e historia política desde distintas perspectivas.
+Translated text: Base Public Policy Proposals on the Application of Principles from Political Theory and History from Different Perspectives
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POLIT27-0B1A002
+Translated text: ['PR-POLIT27-0B1A001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POLIT27-0B1A003
+Translated text: ['PR-POLIT27-0B1A001']
+
+Original text: Desarrollar el pensamiento crítico.
+Translated text: ['Develop Critical Thinking']
+
+Original text: Análisis de información política.
+Translated text: Political Information Analysis
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: POLIT27
+Translated text: ['POLI26']
+
+Original text: Aplicar principios de ética y valores en la toma de decisiones políticas.
+Translated text: Ethics and Values Application in Political Decision-Making.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Análisis Político
+Translated text: ['Political Analysis']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-POLIT27-0B1A004
+Translated text: ['PR-POLIT27-0B1A001']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus propuestas de políticas públicas por medio de la aplicación de los principios de la teoría e historia política desde distintas perspectivas.
+Translated text: ['Base Public Policy Proposals on the Application of Principles from Political Theory and History from Different Perspectives']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POLIT27-0B1A005
+Translated text: ['PR-POLIT27-0B1A001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POLIT27-0B1A006
+Translated text: ['PR-POLIT27-0B1A001']
+
+Original text: Desarrollar el pensamiento ético.
+Translated text: ['Develop Critical Thinking']
+
+Original text: Análisis de impacto político.
+Translated text: Political Impact Analysis.
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: CIEN22
+Translated text: CIEN22
+
+Original text: Desarrollar habilidades para analizar y resolver problemas científicos complejos.
+Translated text: Developing skills for analyzing and resolving complex scientific problems.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Física
+Translated text: Physics
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-SCI22-0C1B001
+Translated text: PR-SCI22-0C1B001
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus propuestas de investigación científica por medio de la aplicación de los principios de la teoría e historia científica desde distintas perspectivas.
+Translated text: Ground your research proposals in scientific investigation by applying principles of scientific theory and history from different perspectives.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-SCI22-0C1B002
+Translated text: ['PR-SCI22-0C1B001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-SCI22-0C1B003
+Translated text: ['PR-SCI22-0C1B001']
+
+Original text: Desarrollar el pensamiento científico.
+Translated text: Develop the scientific thinking.
+
+Original text: Técnicas de síntesis de la información científica.
+Translated text: Scientific Information Synthesis Techniques.
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: CIEN22
+Translated text: ['CIEN22']
+
+Original text: Aplicar principios de experimentación y diseño para resolver problemas científicos.
+Translated text: Apply Scientific Principles of Experimentation and Design for Solving Scientific Problems.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Química
+Translated text: ['Physics']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-SCI22-0C1B004
+Translated text: ['PR-SCI22-0C1B001']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus propuestas de investigación científica por medio de la aplicación de los principios de la teoría e historia científica desde distintas perspectivas.
+Translated text: ['Ground your research proposals in scientific investigation by applying principles of scientific theory and history from different perspectives.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-SCI22-0C1B005
+Translated text: ['PR-SCI22-0C1B001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-SCI22-0C1B006
+Translated text: ['PR-SCI22-0C1B001']
+
+Original text: Desarrollar el pensamiento experimental.
+Translated text: Developing Experimental Thinking
+
+Original text: Análisis de datos científicos.
+Translated text: Scientific Data Analysis
+
+Original text: 10
+Translated text: ['6']
+
+Original text: Programa
+Translated text: ['Program']
+
+Original text: POLI
+Translated text: ['POLI26']
+
+Original text: Analizar y desarrollar políticas públicas que respondan a los desafíos globales.
+Translated text: Develop and implement public policies that address global challenges.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Análisis Político
+Translated text: ['Political Analysis']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-POLI-0B1A0001
+Translated text: PR-POLI-0B1A0001
+
+Original text: 
+Translated text: 
+
+Original text: Teoría de la política
+Translated text: Theory of Politics
+
+Original text: Fundamenta sus análisis políticos por medio de la aplicación de los principios de la teoría política desde distintas perspectivas.
+Translated text: Ground your political analyses through the application of principles from various theoretical perspectives in politics.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POLI-0B1A0002
+Translated text: ['PR-POLI-0B1A0001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POLI-0B1A0003
+Translated text: ['PR-POLI-0B1A0001']
+
+Original text: Desarrollar la capacidad crítica.
+Translated text: Critical Thinking Development
+
+Original text: Análisis de datos estadísticos.
+Translated text: Statistical Data Analysis
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: POLI
+Translated text: ['POLI26']
+
+Original text: Diseñar e implementar políticas públicas que promuevan el desarrollo sostenible.
+Translated text: Design and Implement Public Policies that Promote Sustainable Development.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Análisis Político
+Translated text: ['Political Analysis']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-POLI-0B1A0004
+Translated text: ['PR-POLI-0B1A0001']
+
+Original text: 
+Translated text: 
+
+Original text: Teoría de la política
+Translated text: ['Theory of Politics']
+
+Original text: Fundamenta sus análisis políticos por medio de la aplicación de los principios de la teoría política desde distintas perspectivas.
+Translated text: ['Ground your political analyses through the application of principles from various theoretical perspectives in politics.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POLI-0B1A0005
+Translated text: ['PR-POLI-0B1A0001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POLI-0B1A0006
+Translated text: ['PR-POLI-0B1A0001']
+
+Original text: Desarrollar la capacidad crítica.
+Translated text: ['Critical Thinking Development']
+
+Original text: Técnicas de síntesis de información.
+Translated text: ['Information Synthesis Techniques.']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: CIEN
+Translated text: ['CIEN22']
+
+Original text: Analizar y desarrollar métodos científicos para resolver problemas complejos.
+Translated text: Develop Scientific Methods for Solving Complex Problems
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Métodología Científica
+Translated text: Scientific Methodology
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-CIEN-0B2A0001
+Translated text: PR-CIEN-0B2A0001
+
+Original text: 
+Translated text: 
+
+Original text: Teoría de la ciencia
+Translated text: Theory of Science
+
+Original text: Fundamenta sus análisis científicos por medio de la aplicación de los principios de la teoría de la ciencia desde distintas perspectivas.
+Translated text: Ground your scientific analyses through the application of principles from different perspectives in science theory.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-CIEN-0B2A0002
+Translated text: ['PR-CIEN-0B2A0001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-CIEN-0B2A0003
+Translated text: ['PR-CIEN-0B2A0001']
+
+Original text: Desarrollar el pensamiento sistémico.
+Translated text: ['Systemic Thinking Development']
+
+Original text: Análisis de sistemas complejos.
+Translated text: ['Complex Systems Analysis']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: Programa
+Translated text: ['Program']
+
+Original text: POLI26
+Translated text: ['POLI26']
+
+Original text: Análisis y resolución de problemas políticos y sociales en el contexto mexicano.
+Translated text: Political and Social Problem Analysis and Resolution in the Mexican Context.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Derecho Constitucional
+Translated text: Constitutional Law
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-POLI26-0A10000
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Analiza la evolución política y social del país a partir de la independencia hasta la actualidad.
+Translated text: Evolución Política y Social del País desde la Independencia hasta la Actualidad
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POLI26-010100
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones sobre temas políticos y sociales utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: Develop research on political and social themes using various methodologies and technological tools.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POLI26-010101
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: Desarrollar habilidades de comunicación efectiva.
+Translated text: Developing Effective Communication Skills.
+
+Original text: Análisis de la política pública mexicana.
+Translated text: Analysis of Mexican Public Policy.
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: POLI26
+Translated text: ['POLI26']
+
+Original text: Diseñar y implementar políticas públicas que garanticen el bienestar social y económico en México.
+Translated text: Design and Implement Public Policies That Ensure Social and Economic Well-being in Mexico.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Economía Política
+Translated text: Political Economy
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-POLI26-0A10001
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Analiza la evolución económica del país a partir de la independencia hasta la actualidad.
+Translated text: Economic Evolution of the Country from Independence to Present Day
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POLI26-010101
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones sobre temas económicos y sociales utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: Develops research on economic and social topics using various methodologies and technological tools.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POLI26-010102
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: Desarrollar habilidades de análisis crítico.
+Translated text: Develop Critical Analysis Skills.
+
+Original text: Evaluación de políticas públicas en México.
+Translated text: Assessment of Public Policies in Mexico.
+
+Original text: 10
+Translated text: ['6']
+
+Original text: Programa
+Translated text: ['Program']
+
+Original text: POLI23
+Translated text: ['POLI26']
+
+Original text: Desarrollar habilidades para analizar y resolver problemas políticos complejos.
+Translated text: ['Develop skills for analyzing and solving complex political problems.']
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Análisis Crítico de Política
+Translated text: Critical Policy Analysis
+
+Original text: Poli
+Translated text: Polytechnic
+
+Original text: 8
+Translated text: ['6']
+
+Original text: 4
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-POLI23-0A1B001
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus argumentos políticos utilizando conceptos y teorías relevantes.
+Translated text: Ground your political arguments using relevant concepts and theories.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POLI23-0A1B002
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos relacionados con la política.
+Translated text: Develop research for the construction of proposals, projects or products related to policy.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POLI23-0A1B003
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: Desarrollar el pensamiento crítico.
+Translated text: ['Develop Critical Thinking']
+
+Original text: Análisis de datos estadísticos.
+Translated text: ['Statistical Data Analysis']
+
+Original text: 8
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: POLI23
+Translated text: ['POLI26']
+
+Original text: Aplicar conceptos y teorías políticas para desarrollar soluciones innovadoras a problemas sociales.
+Translated text: Applying political concepts and theories to develop innovative solutions for social problems.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Análisis Crítico de Política
+Translated text: ['Critical Policy Analysis']
+
+Original text: Poli
+Translated text: ['Polytechnic']
+
+Original text: 8
+Translated text: ['6']
+
+Original text: 4
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-POLI23-0A1B004
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus argumentos políticos utilizando conceptos y teorías relevantes.
+Translated text: ['Ground your political arguments using relevant concepts and theories.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POLI23-0A1B005
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos relacionados con la política.
+Translated text: ['Develop research for the construction of proposals, projects or products related to policy.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POLI23-0A1B006
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: Desarrollar el pensamiento innovador.
+Translated text: Developing innovative thinking.
+
+Original text: Diseño de políticas públicas.
+Translated text: Public Policy Design
+
+Original text: 8
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: CIEN22
+Translated text: ['CIEN22']
+
+Original text: Desarrollar habilidades para analizar y resolver problemas científicos complejos.
+Translated text: ['Developing skills for analyzing and resolving complex scientific problems.']
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Método Científico
+Translated text: Scientific Method
+
+Original text: Ciencia
+Translated text: Science
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-CIEN22-0A2C001
+Translated text: PR-CIEN22-0A2C001
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus argumentos científicos utilizando conceptos y teorías relevantes.
+Translated text: Foundations of scientific arguments using relevant concepts and theories.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-CIEN22-0A2C002
+Translated text: ['PR-CIEN22-0A2C001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos relacionados con la ciencia.
+Translated text: Develop research for the construction of proposals, projects or products related to science.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-CIEN22-0A2C003
+Translated text: ['PR-CIEN22-0A2C001']
+
+Original text: Desarrollar el pensamiento crítico.
+Translated text: ['Develop Critical Thinking']
+
+Original text: Análisis de datos estadísticos.
+Translated text: ['Statistical Data Analysis']
+
+Original text: 1Programa
+Translated text: ['Program']
+
+Original text: Fines de Aprendizaje del Programa
+Translated text: ['Learning Outcomes of the Program']
+
+Original text: POLI26
+Translated text: ['POLI26']
+
+Original text: Análisis y diseño de políticas públicas efectivas.
+Translated text: Analysis and Design of Effective Public Policies.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Política Pública
+Translated text: Public Policy
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-POLI26-0A10000
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: 
+Translated text: 
+
+Original text: Análisis de problemas socio-políticos
+Translated text: Socio-Political Problem Analysis
+
+Original text: Analiza las causas y consecuencias de los problemas sociales y políticos a nivel local
+Translated text: Local Social and Political Problems Analysis
+
+Original text:  nacional e internacional.
+Translated text: National and International.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POLI26-010100
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones sobre la implementación de políticas públicas en diferentes contextos.
+Translated text: Develops research on the implementation of public policies in different contexts.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POLI26-010101
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: Desarrollar habilidades para comunicarse efectivamente.
+Translated text: Developing skills for effective communication.
+
+Original text: Técnicas de presentación y defensa de proyectos.
+Translated text: Presentation Techniques and Project Defense Techniques.
+
+Original text: 10
+Translated text: ['6']
+
+Original text: POLI26
+Translated text: ['POLI26']
+
+Original text: Evaluación de impacto de políticas públicas en la sociedad.
+Translated text: Assessment of Public Policy Impact on Society.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Política Pública
+Translated text: ['Public Policy']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-POLI26-0A10001
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: 
+Translated text: 
+
+Original text: Análisis de problemas socio-políticos
+Translated text: ['Socio-Political Problem Analysis']
+
+Original text: Analiza las causas y consecuencias de los problemas sociales y políticos a nivel local
+Translated text: ['Local Social and Political Problems Analysis']
+
+Original text:  nacional e internacional.
+Translated text: ['National and International.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POLI26-010102
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones sobre la evaluación del impacto de políticas públicas en diferentes contextos.
+Translated text: Develop research on assessing the impact of public policies in various contexts.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POLI26-010103
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: Desarrollar habilidades para comunicarse efectivamente.
+Translated text: ['Developing skills for effective communication.']
+
+Original text: Análisis de datos y estadística.
+Translated text: Data Analysis and Statistics.
+
+Original text: 10
+Translated text: ['6']
+
+Original text: CIEN22
+Translated text: ['CIEN22']
+
+Original text: Diseño y aplicación de modelos matemáticos para resolver problemas científicos.
+Translated text: Mathematical modeling design and application for scientific problem solving.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Ciencias Físicas
+Translated text: Physical Sciences
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-SCI22-0A20000
+Translated text: PR-SCI22-0A20000
+
+Original text: 
+Translated text: 
+
+Original text: Análisis de sistemas complejos
+Translated text: ['Complex Systems Analysis']
+
+Original text: Analiza los sistemas complejos y determina las variables que influyen en ellos.
+Translated text: Systems Complexity, Determinants of Influencing Variables
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-SCI22-020100
+Translated text: ['PR-SCI22-0A20000']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones sobre la aplicación de modelos matemáticos para resolver problemas científicos.
+Translated text: Develops research on the application of mathematical models for solving scientific problems.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-SCI22-020101
+Translated text: ['PR-SCI22-0A20000']
+
+Original text: Desarrollar habilidades para comunicarse efectivamente.
+Translated text: ['Developing skills for effective communication.']
+
+Original text: Técnicas de presentación y defensa de proyectos.
+Translated text: ['Presentation Techniques and Project Defense Techniques.']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: INGE32
+Translated text: ['INGE26']
+
+Original text: Diseño y desarrollo de sistemas de automatización industrial.
+Translated text: Industrial Automation Systems Design and Development
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Ingeniería Industrial
+Translated text: Industrial Engineering
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-INGE32-0A30000
+Translated text: PR-INGE32-0A30000
+
+Original text: 
+Translated text: 
+
+Original text: Análisis de procesos industriales
+Translated text: Industrial Process Analysis
+
+Original text: Analiza los procesos industriales y determina las variables que influyen en ellos.
+Translated text: Industrial Processes Analysis and Determination of Influencing Variables
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INGE32-030100
+Translated text: ['PR-INGE32-0A30000']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones sobre la aplicación de tecnologías de automatización industrial.
+Translated text: Develops research on the application of industrial automation technologies.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INGE32-030101
+Translated text: ['PR-INGE32-0A30000']
+
+Original text: Desarrollar habilidades para comunicarse efectivamente.
+Translated text: ['Developing skills for effective communication.']
+
+Original text: Diseño y desarrollo de prototipos.
+Translated text: Design and Development of Prototypes.
+
+Original text: 10
+Translated text: ['6']
+
+Original text: Programa
+Translated text: ['Program']
+
+Original text: POLI26
+Translated text: ['POLI26']
+
+Original text: Análisis y diseño de políticas públicas efectivas.
+Translated text: ['Analysis and Design of Effective Public Policies.']
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Política Pública
+Translated text: ['Public Policy']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-POLI26-0A10000
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: 
+Translated text: 
+
+Original text: Análisis de problemas socio-políticos
+Translated text: ['Socio-Political Problem Analysis']
+
+Original text: Analiza las causas y consecuencias de los problemas sociales y políticos a nivel local
+Translated text: ['Local Social and Political Problems Analysis']
+
+Original text:  nacional e internacional.
+Translated text: ['National and International.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POLI26-010100
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones sobre la implementación de políticas públicas en diferentes contextos.
+Translated text: ['Develops research on the implementation of public policies in different contexts.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POLI26-010101
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: Desarrollar habilidades para comunicarse efectivamente.
+Translated text: ['Developing skills for effective communication.']
+
+Original text: Técnicas de presentación y defensa de proyectos.
+Translated text: ['Presentation Techniques and Project Defense Techniques.']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: POLI26
+Translated text: ['POLI26']
+
+Original text: Evaluación de impacto de políticas públicas en la sociedad.
+Translated text: ['Assessment of Public Policy Impact on Society.']
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Política Pública
+Translated text: ['Public Policy']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-POLI26-0A10001
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: 
+Translated text: 
+
+Original text: Análisis de problemas socio-políticos
+Translated text: ['Socio-Political Problem Analysis']
+
+Original text: Analiza las causas y consecuencias de los problemas sociales y políticos a nivel local
+Translated text: ['Local Social and Political Problems Analysis']
+
+Original text:  nacional e internacional.
+Translated text: ['National and International.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POLI26-010102
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones sobre la evaluación del impacto de políticas públicas en diferentes contextos.
+Translated text: ['Develop research on assessing the impact of public policies in various contexts.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POLI26-010103
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: Desarrollar habilidades para comunicarse efectivamente.
+Translated text: ['Developing skills for effective communication.']
+
+Original text: Análisis de datos y estadística.
+Translated text: ['Data Analysis and Statistics.']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: CIEN22
+Translated text: ['CIEN22']
+
+Original text: Diseño y aplicación de modelos matemáticos para resolver problemas científicos.
+Translated text: ['Mathematical modeling design and application for scientific problem solving.']
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Ciencias Físicas
+Translated text: ['Physical Sciences']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-SCI22-0A20000
+Translated text: ['PR-SCI22-0A20000']
+
+Original text: 
+Translated text: 
+
+Original text: Análisis de sistemas complejos
+Translated text: ['Complex Systems Analysis']
+
+Original text: Analiza los sistemas complejos y determina las variables que influyen en ellos.
+Translated text: ['Systems Complexity, Determinants of Influencing Variables']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-SCI22-020100
+Translated text: ['PR-SCI22-0A20000']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones sobre la aplicación de modelos matemáticos para resolver problemas científicos.
+Translated text: ['Develops research on the application of mathematical models for solving scientific problems.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-SCI22-020101
+Translated text: ['PR-SCI22-0A20000']
+
+Original text: Desarrollar habilidades para comunicarse efectivamente.
+Translated text: ['Developing skills for effective communication.']
+
+Original text: Técnicas de presentación y defensa de proyectos.
+Translated text: ['Presentation Techniques and Project Defense Techniques.']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: INGE32
+Translated text: ['INGE26']
+
+Original text: Diseño y desarrollo de sistemas de automatización industrial.
+Translated text: ['Industrial Automation Systems Design and Development']
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Ingeniería Industrial
+Translated text: ['Industrial Engineering']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-INGE32-0A30000
+Translated text: ['PR-INGE32-0A30000']
+
+Original text: 
+Translated text: 
+
+Original text: Análisis de procesos industriales
+Translated text: ['Industrial Process Analysis']
+
+Original text: Analiza los procesos industriales y determina las variables que influyen en ellos.
+Translated text: ['Industrial Processes Analysis and Determination of Influencing Variables']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INGE32-030100
+Translated text: ['PR-INGE32-0A30000']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones sobre la aplicación de tecnologías de automatización industrial.
+Translated text: ['Develops research on the application of industrial automation technologies.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-INGE32-030101
+Translated text: ['PR-INGE32-0A30000']
+
+Original text: Desarrollar habilidades para comunicarse efectivamente.
+Translated text: ['Developing skills for effective communication.']
+
+Original text: Diseño y desarrollo de prototipos.
+Translated text: ['Design and Development of Prototypes.']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: Programa
+Translated text: ['Program']
+
+Original text: POL24
+Translated text: ['POLI26']
+
+Original text: Análisis crítico y creativo de políticas públicas para abordar desafíos sociales.
+Translated text: Critical and Creative Analysis of Public Policies for Addressing Social Challenges.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Evaluación de Políticas
+Translated text: Evaluation of Policies
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-POL24-0P1A001
+Translated text: PR-POL24-0P1A001
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus propuestas de política pública por medio de la aplicación de los principios de la teoría e historia de la política pública y la gestión gubernamental desde distintas perspectivas de inclusión.
+Translated text: Ground your public policy proposals through the application of principles from theory and history of public policy and government management from diverse perspectives of inclusion.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POL24-0P1A002
+Translated text: ['PR-POL24-0P1A001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POL24-0P1A003
+Translated text: ['PR-POL24-0P1A001']
+
+Original text: Desarrollar el pensamiento sistémico.
+Translated text: ['Systemic Thinking Development']
+
+Original text: Análisis de políticas públicas complejas.
+Translated text: Complex Public Policy Analysis
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: POL24
+Translated text: ['POLI26']
+
+Original text: Diseño y evaluación de programas sociales para abordar problemas de salud pública.
+Translated text: Social Program Design and Evaluation for Addressing Public Health Problems
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Evaluación de Políticas
+Translated text: ['Evaluation of Policies']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-POL24-0P1A004
+Translated text: ['PR-POL24-0P1A001']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus propuestas de política pública por medio de la aplicación de los principios de la teoría e historia de la política pública y la gestión gubernamental desde distintas perspectivas de inclusión.
+Translated text: ['Ground your public policy proposals through the application of principles from theory and history of public policy and government management from diverse perspectives of inclusion.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POL24-0P1A005
+Translated text: ['PR-POL24-0P1A001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POL24-0P1A006
+Translated text: ['PR-POL24-0P1A001']
+
+Original text: Desarrollar el pensamiento sistémico.
+Translated text: ['Systemic Thinking Development']
+
+Original text: Análisis de datos de salud pública.
+Translated text: Public Health Data Analysis.
+
+Original text: 10
+Translated text: ['6']
+
+Original text: Programa
+Translated text: ['Program']
+
+Original text: POL24
+Translated text: ['POLI26']
+
+Original text: Analizar y evaluar políticas públicas para la toma de decisiones efectivas en el ámbito local y nacional.
+Translated text: Analyze and evaluate public policies for effective decision-making in the local and national arenas.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Análisis Político
+Translated text: ['Political Analysis']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-POL24-0B10001
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta las políticas públicas desde una perspectiva crítica y analítica.
+Translated text: Ground public policies from a critical and analytical perspective.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POL24-0B10002
+Translated text: ['PR-POL24-0P1A001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Realiza investigación para la evaluación de políticas públicas y propone mejoras.
+Translated text: Conduct research for the evaluation of public policies and propose improvements.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POL24-0B10003
+Translated text: ['PR-POL24-0P1A001']
+
+Original text: Desarrollar el pensamiento crítico.
+Translated text: ['Develop Critical Thinking']
+
+Original text: Análisis de datos para la toma de decisiones.
+Translated text: Data Analysis for Decision Making.
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: POL24
+Translated text: ['POLI26']
+
+Original text: Diseñar y implementar programas de política pública que resuelvan problemas sociales y ambientales.
+Translated text: Design and Implement Public Policy Programs to Address Social and Environmental Issues.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Análisis Político
+Translated text: ['Political Analysis']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-POL24-0B10004
+Translated text: ['PR-POL24-0P1A001']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta las políticas públicas desde una perspectiva crítica y analítica.
+Translated text: ['Ground public policies from a critical and analytical perspective.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POL24-0B10005
+Translated text: ['PR-POL24-0P1A001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Realiza investigación para la evaluación de políticas públicas y propone mejoras.
+Translated text: ['Conduct research for the evaluation of public policies and propose improvements.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POL24-0B10006
+Translated text: ['PR-POL24-0P1A001']
+
+Original text: Desarrollar el pensamiento sistémico.
+Translated text: ['Systemic Thinking Development']
+
+Original text: Análisis de sistemas complejos.
+Translated text: ['Complex Systems Analysis']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: Programa
+Translated text: ['Program']
+
+Original text: POL26
+Translated text: ['ARQ26']
+
+Original text: Análisis y resolución de problemas en política pública.
+Translated text: Analysis and Problem-Solving in Public Policy.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Diseño de Políticas
+Translated text: Design of Policies
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Virtual
+Translated text: ['Virtual']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-POL26-0A10001
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus propuestas de diseño por medio de la aplicación de los principios de la teoría e historia de la política pública desde distintas perspectivas de inclusión.
+Translated text: Ground your design proposals by applying the principles of public policy theory and history from different inclusion perspectives.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POL26-0A10002
+Translated text: ['PR-INF26-0A10002']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POL26-0A10003
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: Desarrollar el pensamiento sistémico.
+Translated text: ['Systemic Thinking Development']
+
+Original text: Análisis de políticas públicas.
+Translated text: Public Policy Analysis.
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: POL26
+Translated text: ['ARQ26']
+
+Original text: Diseño y evaluación de políticas públicas para la resolución de problemas sociales.
+Translated text: Design and Evaluation of Public Policies for Social Problem Resolution.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Diseño de Políticas
+Translated text: ['Design of Policies']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-POL26-0A10004
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus propuestas de diseño por medio de la aplicación de los principios de la teoría e historia de la política pública desde distintas perspectivas de inclusión.
+Translated text: ['Ground your design proposals by applying the principles of public policy theory and history from different inclusion perspectives.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POL26-0A10005
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-POL26-0A10006
+Translated text: ['PR-POLI26-0A10001']
+
+Original text: Desarrollar el pensamiento sistémico.
+Translated text: ['Systemic Thinking Development']
+
+Original text: Evaluación de políticas públicas.
+Translated text: Public Policy Evaluation.
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: SCI27
+Translated text: SCI27
+
+Original text: Análisis y resolución de problemas en biotecnología.
+Translated text: Biotechnology Problem Analysis and Resolution.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Biotecnología
+Translated text: Biotechnology
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-SCI27-0A20001
+Translated text: ['PR-SCI22-0A20000']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus propuestas de diseño por medio de la aplicación de los principios de la teoría e historia de la biotecnología desde distintas perspectivas de inclusión.
+Translated text: Ground your design proposals by applying the principles of the theory and history of biotechnology from different inclusion perspectives.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-SCI27-0A20002
+Translated text: ['PR-SCI22-0A20000']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-SCI27-0A20003
+Translated text: ['PR-SCI22-0A20000']
+
+Original text: Desarrollar el pensamiento sistémico.
+Translated text: ['Systemic Thinking Development']
+
+Original text: Técnicas de síntesis de la información en biotecnología.
+Translated text: Biotechnology Information Synthesis Techniques.
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: SCI28
+Translated text: ['SCI27']
+
+Original text: Diseño y evaluación de productos biotecnológicos para la resolución de problemas sociales.
+Translated text: Design and Evaluation of Biotechnological Products for the Resolution of Social Problems.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Biotecnología
+Translated text: ['Biotechnology']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Virtual
+Translated text: ['Virtual']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-SCI28-0A20004
+Translated text: ['PR-SCI22-0A20000']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus propuestas de diseño por medio de la aplicación de los principios de la teoría e historia de la biotecnología desde distintas perspectivas de inclusión.
+Translated text: ['Ground your design proposals by applying the principles of the theory and history of biotechnology from different inclusion perspectives.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-SCI28-0A20005
+Translated text: ['PR-SCI22-0A20000']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-SCI28-0A20006
+Translated text: ['PR-SCI22-0A20000']
+
+Original text: Desarrollar el pensamiento sistémico.
+Translated text: ['Systemic Thinking Development']
+
+Original text: Evaluación de productos biotecnológicos.
+Translated text: Product Evaluation in Biotechnology.
+
+Original text: 10
+Translated text: ['6']
+
+Original text: Programa
+Translated text: ['Program']
+
+Original text: INGENIERÍA DE SISTEMAS
+Translated text: Engineering Systems
+
+Original text: Desarrollar habilidades para el diseño y análisis de sistemas complejos.
+Translated text: Develop skills for designing and analyzing complex systems.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Análisis de Sistemas
+Translated text: Systems Analysis
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-ING-SYS-0B1C0001
+Translated text: PR-ING-SYS-0B1C0001
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus propuestas de diseño por medio de la aplicación de los principios de la teoría e historia de la ingeniería de sistemas.
+Translated text: Ground your design proposals by applying the principles of systems engineering theory and history.
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-ING-SYS-0B1C0002
+Translated text: ['PR-ING-SYS-0B1C0001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-ING-SYS-0B1C0003
+Translated text: ['PR-ING-SYS-0B1C0001']
+
+Original text: Desarrollar el pensamiento sistémico.
+Translated text: ['Systemic Thinking Development']
+
+Original text: Técnicas de síntesis de la información.
+Translated text: ['Information Synthesis Techniques.']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: INGENIERÍA DE SISTEMAS
+Translated text: ['Engineering Systems']
+
+Original text: Diseñar e implementar sistemas integrados para la resolución de problemas.
+Translated text: Design and Implement Integrated Systems for Problem Resolution.
+
+Original text: 5
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Análisis de Sistemas
+Translated text: ['Systems Analysis']
+
+Original text: Materia
+Translated text: ['Subject']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 6
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
+Original text: Desarrollo
+Translated text: ['Development']
+
+Original text: Presencial
+Translated text: ['On-site']
+
+Original text: 
+Translated text: 
+
+Original text: No
+Translated text: ['6']
+
+Original text: PR-ING-SYS-0B1C0004
+Translated text: ['PR-ING-SYS-0B1C0001']
+
+Original text: 
+Translated text: 
+
+Original text: Fundamentación teórica e histórica
+Translated text: ['Theoretical and Historical Foundation']
+
+Original text: Fundamenta sus propuestas de diseño por medio de la aplicación de los principios de la teoría e historia de la ingeniería de sistemas.
+Translated text: ['Ground your design proposals by applying the principles of systems engineering theory and history.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-ING-SYS-0B1C0005
+Translated text: ['PR-ING-SYS-0B1C0001']
+
+Original text: 
+Translated text: 
+
+Original text: Investigación
+Translated text: ['Research']
+
+Original text: Desarrolla investigaciones para la construcción de propuestas, proyectos o productos utilizando diversas metodologías y herramientas tecnológicas.
+Translated text: ['Develop research for the construction of proposals, projects or products using various methodologies and technological tools.']
+
+Original text: Si
+Translated text: ['6']
+
+Original text: PR-ING-SYS-0B1C0006
+Translated text: ['PR-ING-SYS-0B1C0001']
+
+Original text: Desarrollar el pensamiento sistémico.
+Translated text: ['Systemic Thinking Development']
+
+Original text: Análisis de sistemas complejos.
+Translated text: ['Complex Systems Analysis']
+
+Original text: 10
+Translated text: ['6']
+
+Original text: 
+Translated text: 
+
